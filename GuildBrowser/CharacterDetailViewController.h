@@ -2,6 +2,7 @@
 @class Character;
 @class WowItemView;
 
+
 @interface CharacterDetailViewController : UIViewController
 
 @property (nonatomic, strong) Character *character;
